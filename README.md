@@ -36,6 +36,9 @@ BMEN4460-NB3-brain_tumor_segmentation
 ## Acknowledgements
 This notebook series is largely inspired by and adapted from [this GitHub repository](https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation). It's a pretty well-organized repository with surprisingly few stars. We recommend giving it a star when you have time.
 
-### The U-Net model implemented (with minor changes to reduce the memory requirements) in this tutorial (directly taken from the [U-Net publication](https://arxiv.org/abs/1505.04597)).
+## Network Architectures implemented in this tutorial.
+
+### 1. The Basic U-Net Model (with minor changes to reduce the memory requirements).
+Illustration directly taken from the [U-Net publication](https://arxiv.org/abs/1505.04597).
 
 <img src="Unet_architecture.PNG" width="1000px">
