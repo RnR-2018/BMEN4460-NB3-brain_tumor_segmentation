@@ -26,7 +26,7 @@ You shall then see the following hierarchy of files and folders, hopefully, whic
 
 ```
 BMEN4460-NB3-brain_tumor_segmentation
-    ├── Unet_architecture.png
+    ├── Unet_architecture.PNG
     ├── BMEN4460-NB3-brain_tumor_segmentation_approach01.ipynb
     └── dataset
         └── png_dataset
@@ -37,4 +37,4 @@ BMEN4460-NB3-brain_tumor_segmentation
 This notebook series is largely inspired by and adapted from [this GitHub repository](https://github.com/sdsubhajitdas/Brain-Tumor-Segmentation). It's a pretty well-organized repository with surprisingly few stars. We recommend giving it a star when you have time.
 
 ### The U-Net model implemented (with minor changes to reduce the memory requirements) in this tutorial (directly taken from the [U-Net publication](https://arxiv.org/abs/1505.04597)).
-<img src="Unet_architecture.png" width="1000px">
+<img src="Unet_architecture.PNG" width="1000px">
