@@ -1,4 +1,4 @@
-# BMEN4460 Notebook 3 (In fact this repository consists of multiple notebooks)
+# BMEN4460 Notebook Series 3
 ## Brain Tumor Segmentation with U-Net and Its Variants
 Nanyan "Rosalie" Zhu and Chen "Raphael" Liu
 
