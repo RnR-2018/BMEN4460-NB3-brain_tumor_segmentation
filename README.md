@@ -2,6 +2,7 @@
 ## Brain Tumor Segmentation with U-Net and Its Variants
 Nanyan "Rosalie" Zhu and Chen "Raphael" Liu
 
+### Overview
 This repository is a child repository of [**RnR-2018/Deep-learning-with-PyTorch-and-GCP**](https://github.com/RnR-2018/Deep-learning-with-PyTorch-and-GCP). This serves a primary purpose of facilitating the course BMEN4460 instructed by Dr. Andrew Laine and Dr. Jia Guo at Columbia University. However, it can also be used as a general beginner-level tutorial to implementing deep learning algorithms with PyTorch on Google Cloud Platform.
 
 This repository, [**Brain Tumor Segmentation**](https://https://github.com/RnR-2018/BMEN4460-NB3-brain_tumor_segmentation), aims to give you an idea how to approach a medical computer vision project. This brain tumor segmentation series, consisting of three jupyter notebooks, will walk you through the essential steps of building up your own project. As you progress along these three notebooks, you will see incremental elements being added and (hopefully) performance being improved.
